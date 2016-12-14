@@ -15,11 +15,11 @@ For C/C++ use the provided Makefile.
 
 Makefile required parameters:
 * FILE - The file you want to be compiled without the extension. Eg.: make FILE=test.
-* COMPILER - The compiler you want to use. Eg.: make COMPILER=gcc.
+* CC - The compiler you want to use. Eg.: make CC=gcc.
 
 ```
 $ cd desiredFolder
-$ make FILE=file COMPILER=g++
+$ make FILE=file CC=g++
 ```
 
 For Python use the Python interpreter.
