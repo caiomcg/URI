@@ -22,6 +22,12 @@ $ cd desiredFolder
 $ make FILE=file CC=g++
 ```
 
+For Java use the Java compiler.
+
+```
+...
+```
+
 For Python use the Python interpreter.
 
 ```
