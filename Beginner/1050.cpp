@@ -1,3 +1,20 @@
+/**
+ * @file 1050.cpp
+ *
+ * @brief URI 1050 solution
+ *
+ * Input
+ * The input consists in a unique integer number.
+ *
+ * Output
+ * Print the city name corresponding to the input DDD. Print DDD nao cadastrado
+ * if doesn't exist corresponding DDD to the typed number.
+ *
+ * @note Problem page: https://www.urionlinejudge.com.br/judge/en/problems/view/1050
+ *
+ * @author Caio Marcelo Campoy Guedes <caiomcg@gmail.com>
+ */
+
 #include <iostream>
 #include <utility>
 #include <vector>

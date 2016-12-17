@@ -1,3 +1,20 @@
+/**
+ * @file 1049.cpp
+ *
+ * @brief URI 1049 solution
+ *
+ * Input
+ * The input contains 3 words, one by line, that will be used to identify the animal,
+ *  according to the above table, with all letters in lowercase.
+ *
+ * Output
+ * Print the animal name according to the given input.
+ *
+ * @note Problem page: https://www.urionlinejudge.com.br/judge/en/problems/view/1049
+ *
+ * @author Caio Marcelo Campoy Guedes <caiomcg@gmail.com>
+ */
+
 #include <iostream>
 #include <utility>
 
